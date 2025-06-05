@@ -34,7 +34,7 @@ function App() {
 
     return (
         <>
-            <h1>BellBuddy - Zarządzanie klasą</h1>
+            <h1>BellBuddy - Zarządzanie Klasą</h1>
 
             <button onClick={() => setShowClock(!showClock)}>Pokaż/Ukryj Zegar</button>
             <button onClick={() => setShowForm(!showForm)}>Pokaż/Ukryj Formularz</button>
